@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "title": "営業店DX推進レポート",
+    "url": "https://kb.techzeron-bank.example/dx-report",
+    "description": "窓口業務のペーパーレス化で事務時間を30%削減したDXプロジェクトの記録",
+    "keywords": [
+      "DX",
+      "営業店",
+      "業務効率"
+    ],
+    "author": "田中太郎",
+    "created_at": "2025-01-15",
+    "category": "事例"
+  },
+  {
+    "id": 2,
+    "title": "住宅ローン審査AI導入の検討",
+    "url": "https://kb.techzeron-bank.example/ai-screening",
+    "description": "AI事前審査で融資業務をDX化する企画提案",
+    "keywords": [
+      "AI",
+      "融資",
+      "審査"
+    ],
+    "author": "鈴木花子",
+    "created_at": "2025-01-16",
+    "category": "企画"
+  },
+  {
+    "id": 3,
+    "title": "法人融資 稟議書の書き方ガイド",
+    "url": "https://kb.techzeron-bank.example/ringi-guide",
+    "description": "法人融資の稟議書作成の標準手順とチェックリスト",
+    "keywords": [
+      "融資",
+      "稟議",
+      "法人"
+    ],
+    "author": "山本一郎",
+    "created_at": "2025-01-17",
+    "category": "業務マニュアル"
+  },
+  {
+    "id": 4,
+    "title": "AIチャットボットによる照会対応DX",
+    "url": "https://kb.techzeron-bank.example/chatbot-dx",
+    "description": "コールセンターにAIチャットボットを導入し照会対応を効率化したDX事例",
+    "keywords": [
+      "AI",
+      "DX",
+      "コールセンター"
+    ],
+    "author": "佐藤健太",
+    "created_at": "2025-01-18",
+    "category": "事例"
+  },
+  {
+    "id": 5,
+    "title": "全店DX推進ロードマップ2026",
+    "url": "https://kb.techzeron-bank.example/dx-roadmap",
+    "description": "勘定系刷新とデジタルチャネル強化を柱とする全店DX計画の概要",
+    "keywords": [
+      "DX",
+      "経営企画",
+      "デジタル"
+    ],
+    "author": "中村美咲",
+    "created_at": "2025-01-19",
+    "category": "企画"
+  },
+  {
+    "id": 6,
+    "title": "自己紹介ほりえもん",
+    "url": "https://extraordinary-smakager-0d0ef6-no.netlify.app/",
+    "description": "LP",
+    "keywords": [
+      "自己紹介"
+    ],
+    "author": "ほりえ",
+    "created_at": "2026-09-05",
+    "category": "自己紹介"
+  },
+  {
+    "id": 7,
+    "title": "ハンターハンター",
+    "url": "https://ja.wikipedia.org/wiki/HUNTER%C3%97HUNTER",
+    "description": "ハンターハンター",
+    "keywords": [
+      "マンガ"
+    ],
+    "author": "ほりえ",
+    "created_at": "2026-09-05",
+    "category": "漫画"
+  },
+  {
+    "id": 8,
+    "title": "ワンピース",
+    "url": "https://ja.wikipedia.org/wiki/ONE_PIECE",
+    "description": "ワンピース",
+    "keywords": [
+      "マンガ"
+    ],
+    "author": "ほりえ",
+    "created_at": "2026-09-05",
+    "category": "マンガ"
+  },
+  {
+    "id": 9,
+    "title": "大鵬薬品",
+    "url": "https://www.taiho.co.jp/",
+    "description": "自社HP",
+    "keywords": [
+      "製薬"
+    ],
+    "author": "ほりえ",
+    "created_at": "2026-09-05",
+    "category": "企業"
+  },
+  {
+    "id": 10,
+    "title": "第一三共",
+    "url": "https://www.daiichisankyo.co.jp/",
+    "description": "他者HP",
+    "keywords": [
+      "製薬"
+    ],
+    "author": "ほりえ",
+    "created_at": "2026-09-05",
+    "category": "企業"
+  },
+  {
+    "id": 11,
+    "title": "中外製薬",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "description": "他者HP",
+    "keywords": [
+      "製薬"
+    ],
+    "author": "ほりえ",
+    "created_at": "2026-09-05",
+    "category": "企業"
+  },
+  {
+    "id": 12,
+    "title": "武田薬品",
+    "url": "https://www.takeda.com/jp/",
+    "description": "他者HP",
+    "keywords": [
+      "製薬"
+    ],
+    "author": "ほりえ",
+    "created_at": "2026-09-05",
+    "category": "企業"
+  },
+  {
+    "id": 13,
+    "title": "MSD",
+    "url": "https://www.msd.co.jp/",
+    "description": "他者HP",
+    "keywords": [
+      "製薬"
+    ],
+    "author": "ほりえ",
+    "created_at": "2026-09-05",
+    "category": "企業"
+  },
+  {
+    "id": 14,
+    "title": "ノバルティス",
+    "url": "https://www.novartis.com/jp-ja/",
+    "description": "他者HP",
+    "keywords": [
+      "製薬"
+    ],
+    "author": "ほりえ",
+    "created_at": "2026-09-05",
+    "category": "企業"
+  },
+  {
+    "id": 15,
+    "title": "アストラゼネカ",
+    "url": "https://www.astrazeneca.co.jp/",
+    "description": "他者HP",
+    "keywords": [
+      "製薬"
+    ],
+    "author": "ほりえ",
+    "created_at": "2026-09-05",
+    "category": "企業"
+  },
+  {
+    "id": 16,
+    "title": "ギリアド",
+    "url": "https://www.gilead.com/ja-jp",
+    "description": "他者HP",
+    "keywords": [
+      "製薬"
+    ],
+    "author": "ほりえ",
+    "created_at": "2026-09-05",
+    "category": "企業"
+  },
+  {
+    "id": 17,
+    "title": "アステラス",
+    "url": "https://www.astellas.com/jp/",
+    "description": "他者HP",
+    "keywords": [
+      "製薬"
+    ],
+    "author": "ほりえ",
+    "created_at": "2026-09-05",
+    "category": "企業"
+  },
+  {
+    "id": 18,
+    "title": "サノフィ",
+    "url": "https://www.sanofi.co.jp/ja",
+    "description": "他者HP",
+    "keywords": [
+      "製薬"
+    ],
+    "author": "ほりえ",
+    "created_at": "2026-09-05",
+    "category": "企業"
+  },
+  {
+    "id": 19,
+    "title": "大塚製薬",
+    "url": "https://www.otsuka.co.jp/",
+    "description": "他者HP",
+    "keywords": [
+      "製薬"
+    ],
+    "author": "ほりえ",
+    "created_at": "2026-09-05",
+    "category": "企業"
+  },
+  {
+    "id": 20,
+    "title": "ブリストルマイヤーズ",
+    "url": "https://www.bms.com/jp",
+    "description": "他者HP",
+    "keywords": [
+      "製薬"
+    ],
+    "author": "ほりえ",
+    "created_at": "2026-09-05",
+    "category": "企業"
+  }
+]
